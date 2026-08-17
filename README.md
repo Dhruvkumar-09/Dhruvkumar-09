@@ -1,27 +1,161 @@
-# 💫 About Me:
-## About Me<br><br>👋 Hi, I'm **Dhruv Kumar**, a B.Tech Computer Science student passionate about learning programming and building useful projects.<br><br>🔭 **I'm currently working on**<br>Developing small projects and improving my problem-solving and programming skills.<br><br>🤝 **I'm looking to collaborate on**<br>Beginner-friendly software development, Java, Python, and open-source projects.<br><br>💡 **I'm looking for help with**<br>Data Structures & Algorithms, advanced Java, backend development, and becoming a better software developer.<br><br>🌱 **I'm currently learning**<br>Java, Python, SQL, Data Structures & Algorithms, Git, GitHub, and software development fundamentals.<br><br>💬 **Ask me about**<br>Java, Python, SQL, Git/GitHub, basic Data Structures & Algorithms, and my learning journey in Computer Science.<br><br>⚡ **Fun fact**<br>I enjoy exploring new technologies.<br>
+<div align="center">
 
+  <!-- ================= HEADER ANIMATION BANNER ================= -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,20,30&height=220&section=header&text=Hi%20there,%20I'm%20Dhruv%20Kumar%20👋&fontSize=38&fontColor=ffffff&animation=twinkling&desc=B.Tech%20Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descFontSize=18&descAlignY=65" width="100%" alt="Header Banner" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-kumar-9b25b3397/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvkumar1605@gmail.com) 
+  <!-- ================= DYNAMIC ANIMATED TYPING SVG ================= -->
+  <a href="https://github.com/Dhruvkumar-09">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=B.Tech+Computer+Science+Student+%F0%9F%8E%93;Passionate+about+Java%2C+Python+%26+DSA+%E2%9A%A1;Building+Software+Projects+%26+Solving+Problems+%F0%9F%9A%80;Exploring+New+Technologies+%26+Open+Source+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Dhruvkumar-09&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Dhruvkumar-09&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dhruvkumar-09&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <br/>
+
+  <!-- ================= SOCIAL BADGES & PROFILE STATS ================= -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/dhruv-kumar-9b25b3397/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:dhruvkumar1605@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Dhruvkumar-09">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=Dhruvkumar-09">
+      <img src="https://komarev.com/ghpvc/?username=Dhruvkumar-09&label=Profile%20Views&color=007ec6&style=for-the-badge" alt="Profile Views" />
+    </a>
+  </p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💫 About Me
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>👋 Hi, I'm <b>Dhruv Kumar</b>, a B.Tech Computer Science student passionate about learning programming and building useful projects.</p>
+      <ul>
+        <li>🔭 <b>I'm currently working on</b>: Developing small projects and improving my problem-solving and programming skills.</li>
+        <li>🤝 <b>I'm looking to collaborate on</b>: Beginner-friendly software development, Java, Python, and open-source projects.</li>
+        <li>💡 <b>I'm looking for help with</b>: Data Structures & Algorithms, advanced Java, backend development, and becoming a better software developer.</li>
+        <li>🌱 <b>I'm currently learning</b>: Java, Python, SQL, Data Structures & Algorithms, Git, GitHub, and software development fundamentals.</li>
+        <li>💬 <b>Ask me about</b>: Java, Python, SQL, Git/GitHub, basic Data Structures & Algorithms, and my learning journey in Computer Science.</li>
+        <li>⚡ <b>Fun fact</b>: I enjoy exploring new technologies.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💻 Tech Stack
+
+<div align="center">
+
+  <!-- Interactive Skill Icons Grid -->
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=c,java,python,html,css,mysql,git,github,vercel,netlify&theme=dark" alt="Skill Icons" />
+  </p>
+
+  <!-- Detailed Badge Grid -->
+  <table border="0">
+    <tr>
+      <td align="center"><b>Languages</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffd54" alt="Python" />
+        <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Data Science & Libraries</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Tools & Platforms</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Dhruvkumar-09&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_radius=8" alt="GitHub Stats" />
+      </td>
+      <td align="center" valign="middle">
+        <img height="185em" src="https://streak-stats.demolab.com/?user=Dhruvkumar-09&theme=tokyonight&hide_border=false&border_radius=8" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="middle">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvkumar-09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dhruvkumar-09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvkumar-09&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dhruvkumar-09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=Dhruvkumar-09&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <h3>✍️ Dev Quote</h3>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+      </td>
+      <td align="center" width="50%">
+        <h3>🧰 Top Contributed Repo</h3>
+        <img src="https://github-contributor-stats.vercel.app/api?username=Dhruvkumar-09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhruvkumar-09/Dhruvkumar-09/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhruvkumar-09/Dhruvkumar-09/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Dhruvkumar-09/Dhruvkumar-09/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ================= FOOTER WAVE ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,20,30&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
