@@ -69,7 +69,7 @@
       <td>
         <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffd54" alt="Python" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
         <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
         <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       </td>
@@ -102,7 +102,7 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Dhruvkumar-09&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_radius=8" alt="GitHub Stats" />
+        <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhruvkumar-09&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_radius=8" alt="GitHub Stats" />
       </td>
       <td align="center" valign="middle">
         <img height="185em" src="https://streak-stats.demolab.com/?user=Dhruvkumar-09&theme=tokyonight&hide_border=false&border_radius=8" alt="GitHub Streak" />
@@ -110,7 +110,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center" valign="middle">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvkumar-09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=8" alt="Top Languages" />
+        <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhruvkumar-09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -118,10 +118,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvkumar-09&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvkumar-09&theme=tokyo-night&area=true&hide_border=false&border_radius=8" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -134,8 +134,8 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
       </td>
       <td align="center" width="50%">
-        <h3>🧰 Top Contributed Repo</h3>
-        <img src="https://github-contributor-stats.vercel.app/api?username=Dhruvkumar-09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+        <h3>📌 Featured Repository</h3>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dhruvkumar-09&repo=Dhruvkumar-09&theme=tokyonight&border_radius=8" alt="Featured Repository" />
       </td>
     </tr>
   </table>
